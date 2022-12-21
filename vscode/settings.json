@@ -1,0 +1,16 @@
+{
+  "workbench.colorTheme": "Default Light+",
+  "workbench.editor.enablePreview": false,
+  "editor.fontSize": 14,
+  "editor.fontFamily": "Ricty, Menlo, Monaco, 'Courier New', monospace",
+  "workbench.editor.showTabs": false,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "window.zoomLevel": -1,
+  "[go]": {
+    "editor.defaultFormatter": "golang.go"
+  }
+}
